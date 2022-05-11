@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
  <a href="https://steamcommunity.com/profiles/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="28px" width="28px" />
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="" height="28px" width="28px" />
   </a>
 
 
