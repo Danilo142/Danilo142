@@ -17,10 +17,6 @@ Here are some ideas to get you started:
   <a href="https://steamcommunity.com/profiles/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="28px" width="28px" />
   </a>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo142&layout=compact&langs_count=7&theme=chartreuse-light"/>
-</p>
 
 
 
