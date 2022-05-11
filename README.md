@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on git hub
 - 🌱 I’m currently learning java, python
 - 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/danilo-cerna-verardo-2b548122b/" target="blank">
+ <a href="https://www.linkedin.com/in/danilo-cerna-verardo-2b548122b/" target="blank">
  <a href="https://steamcommunity.com/profiles/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="" height="28px" width="28px" />
   </a>
