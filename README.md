@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on git hub
+
 - 🌱 I’m currently learning java, python
 - 📫 How to reach me: 
  <a href="https://www.linkedin.com/in/danilo-cerna-verardo-2b548122b/" target="blank">
