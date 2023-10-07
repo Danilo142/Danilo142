@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python, Railway,JavaScript,NodeJS, FastAPI, Docker**
 
-- 📫 How to reach me **daniverardo14@gmail.com, https://steamcommunity.com/profiles/76561199042466342/, https://github.com/Danilo142**
+- 📫 How to reach me **daniverardo14@gmail.com, https://github.com/Danilo142**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
